@@ -1,1 +1,2 @@
-random text
+ git config --replace-all user.name "TusarNanda"
+ git config --replace-all user.email "tnandank@gmail.com"
